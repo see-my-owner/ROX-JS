@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "successful in bed for group\nBot prefix: %1",
+			welcomeMessage: "successful add for group\nBot prefix: %1",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `hilu 🐥 {userName}. welcome to the {multiple}✨{boxName} ✨🐥`
+			defaultWelcomeMessage: `hilu 🐥 {userName}. welcome to {multiple}✨{boxName} ✨🐥`
 		}
 	},
 
