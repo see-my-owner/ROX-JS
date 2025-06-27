@@ -21,8 +21,8 @@ module.exports = {
       name: " 𝐓 𝐀 𝐍 𝐉 𝐈 𝐋 ᯽",  // Replace with your name
       age: "𝟏𝟖±",           // Replace with your age
       location: "𝐃𝐡𝐚𝐤𝐚",    // Replace with your location
-      bio: "Bot & JavaScript Lover | Always Learning!", // Replace with your bio
-      botName: "𝐁𝐨𝐥𝐛𝐨 𝐧𝐚", // Replace with bot's name
+      bio: "legend der bio lage ba", // Replace with your bio
+      botName: "〲٭⃝✨⃝YOUR 卝 চুন্নি ⃝✨⃝٭", // Replace with bot's name
       botVersion: "1.0",    // Replace with bot's version
     };
 
